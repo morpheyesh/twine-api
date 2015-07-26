@@ -2,6 +2,6 @@ package handlers
 
 import ("fmt")
 
-func Show() {
+func Devices() {
   fmt.Println("entered the show handler")
 }
